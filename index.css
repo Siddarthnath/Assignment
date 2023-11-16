@@ -1,0 +1,22 @@
+body{
+    margin: 30px;
+}
+body button{
+  color: blue;
+  height: 40px;
+}
+body .card{
+    margin: 30px;
+    border-style: solid;
+    text-align: center;
+
+}
+body .card img{
+    height: 300px;
+    width: 3x;
+    padding: 60px;
+}
+.carous{
+    height: 300px;
+    width: 400px;
+}
